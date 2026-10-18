@@ -46,8 +46,9 @@ app.add_middleware(
         "http://localhost:3000",
         "http://localhost:8080",
         "http://127.0.0.1:8080",
-        "https://ai-career-copilot-ycga.vercel.app",  # The exact URL from your screenshot
-        "https://ai-career-copilot.vercel.app",       # Your main production URL
+        "https://carrer-copilot-mauve.vercel.app",
+        "https://ai-career-copilot-ycga.vercel.app",  
+        "https://ai-career-copilot.vercel.app",       
     ],
     allow_credentials=True,
     allow_methods=["*"],
